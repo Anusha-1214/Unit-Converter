@@ -1,0 +1,39 @@
+--------------------------------
+Meter to Centimeter
+Input =     5 m
+Output =   500 cm
+
+--------------------------------
+Centimeter to Meter
+Input =   500 cm
+Output =     5 m
+
+--------------------------------
+Kilometer to Meter
+Input =     3 km
+Output =  3000 m
+
+--------------------------------
+Kilogram to Gram
+Input =     7 kg
+Output =  7000 g
+
+--------------------------------
+Gram to Kilogram
+Input =  5000 g
+Output =     5 kg
+
+--------------------------------
+Hour to Minute
+Input =     2 hour
+Output =   120 minutes
+
+--------------------------------
+Minute to Second
+Input =     5 minutes
+Output =   300 seconds
+
+--------------------------------
+Second to Minute
+Input =   120 seconds
+Output =     2 minutes
